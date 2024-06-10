@@ -1,0 +1,5 @@
+.App {
+    background-color: black;
+    color: white; /* Cambiar el color del texto a blanco para mejor legibilidad */
+    min-height: 100vh; /* Asegura que el fondo cubra toda la altura de la pantalla */
+}

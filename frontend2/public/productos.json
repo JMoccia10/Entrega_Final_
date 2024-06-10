@@ -1,0 +1,193 @@
+[
+    {
+        "id": 1,
+        "titulo":"American Idiot",
+        "artista":"Green Day",
+        "precio":30000,
+        "imagenUrl":"img/american_idiot.jpg"
+    },
+
+    {
+        "id": 2,
+        "titulo":"Animals",
+        "artista":"Pink Floyd",
+        "precio":30000,
+        "imagenUrl":"img/animals.jpg"
+    },
+
+    {
+        "id": 3,
+        "titulo":"The Dark Side of the Moon",
+        "artista":"Pink Floyd",
+        "precio":30000,
+        "imagenUrl":"img/dark_side_of_the_moon.jpg"
+    },
+
+    {
+        "id": 4,
+        "titulo":"Deftones",
+        "artista":"Deftones",
+        "precio":30000,
+        "imagenUrl":"img/deftones.jpg"
+    },
+
+    {
+        "id": 5,
+        "titulo":"Goo",
+        "artista":"Sonic Youth",
+        "precio":30000,
+        "imagenUrl":"img/goo.jpg"
+    },
+
+    {
+        "id": 6,
+        "titulo":"Ilegales",
+        "artista":"Ilegales",
+        "precio":30000,
+        "imagenUrl":"img/ilegales.jpg"
+    },
+
+    {
+        "id": 7,
+        "titulo":"Kill 'em All",
+        "artista":"Metallica",
+        "precio":30000,
+        "imagenUrl":"img/kill_em_all.jpg"
+    },
+
+    {
+        "id": 8,
+        "titulo":"IV",
+        "artista":"Led Zeppelin",
+        "precio":30000,
+        "imagenUrl":"img/iv.jpg"
+    },
+
+    {
+        "id": 9,
+        "titulo":"Bitches Brew",
+        "artista":"Miles Davis",
+        "precio":30000,
+        "imagenUrl":"img/bitches_brew.jpg"
+    },
+
+    {
+        "id": 10,
+        "titulo":"Nevermind",
+        "artista":"Nirvana",
+        "precio":30000,
+        "imagenUrl":"img/nevermind.jpg"
+    },
+
+    {
+        "id": 11,
+        "titulo":"The Colour and the Shape",
+        "artista":"Foo Fighters",
+        "precio":30000,
+        "imagenUrl":"img/the_coulour_and_the_shape.jpg"
+    },
+
+    {
+        "id": 12,
+        "titulo":"VS 30th Anniversary",
+        "artista":"Pearl Jam",
+        "precio":30000,
+        "imagenUrl":"img/vs.jpg"
+    },
+
+    {
+        "id": 13,
+        "titulo":"Favourite Worst Nightmare",
+        "artista":"Arctic Monkeys",
+        "precio":30000,
+        "imagenUrl":"img/favourite_worst_nightmare.jpg"
+    },
+
+    {
+        "id": 14,
+        "titulo":"The Doors",
+        "artista":"The Doors",
+        "precio":30000,
+        "imagenUrl":"img/the_doors.jpg"
+    },
+
+    {
+        "id": 15,
+        "titulo":"Fleetwood Mac",
+        "artista":"Fleetwood Mac",
+        "precio":30000,
+        "imagenUrl":"img/fleetwood_mac.jpg"
+    },
+
+    {
+        "id": 16,
+        "titulo":"Outlandos D'amour",
+        "artista":"The Police",
+        "precio":30000,
+        "imagenUrl":"img/outlandos_damour.jpg"
+    },
+
+    {
+        "id": 17,
+        "titulo":"Vulgar Display of Power",
+        "artista":"Pantera",
+        "precio":30000,
+        "imagenUrl":"img/vulgar_display_of_power.jpg"
+    },
+
+    {
+        "id": 18,
+        "titulo":"Paranoid",
+        "artista":"Black Sabbath",
+        "precio":30000,
+        "imagenUrl":"img/paranoid.jpg"
+    },
+
+    {
+        "id": 19,
+        "titulo":"The Bends",
+        "artista":"Radiohead",
+        "precio":30000,
+        "imagenUrl":"img/the_bends.jpg"
+    },
+
+    {
+        "id": 20,
+        "titulo":"Toxicity",
+        "artista":"System of a Down",
+        "precio":30000,
+        "imagenUrl":"img/toxicity.jpg"
+    },
+
+    {
+        "id": 21,
+        "titulo":"Team Sleep",
+        "artista":"Team Sleep",
+        "precio":30000,
+        "imagenUrl":"img/team_sleep.jpg"
+    },
+
+    {
+        "id": 22,
+        "titulo":"Lateralus",
+        "artista":"Tool",
+        "precio":30000,
+        "imagenUrl":"img/lateralus.jpg"
+    },
+
+    {
+        "id": 23,
+        "titulo":"Room on Fire",
+        "artista":"The Strokes",
+        "precio":30000,
+        "imagenUrl":"img/room_on_fire.jpg"
+    },
+
+    {
+        "id": 24,
+        "titulo":"Mellon Collie And The Infinite Sadness",
+        "artista":"The Smashing Pumpkins",
+        "precio":30000,
+        "imagenUrl":"img/mellon_collie_and_the_infinite_sadness.jpg"
+    }
+]

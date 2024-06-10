@@ -1,0 +1,17 @@
+.tarjeta-producto{
+    background-color: black;
+    display: flex;
+}
+
+.producto{
+    min-width: 300px;
+    max-width: 300px;
+    height: 500px;
+    background-color: black;
+    margin: 10px;
+    color: white;
+}
+
+#carro {
+    background-color: black;
+}

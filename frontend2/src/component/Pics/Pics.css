@@ -1,0 +1,38 @@
+/* .pics {
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-pics-container {
+    top: 0;
+    position: relative;
+    width: 100%;
+    padding-top: 10%; 
+    margin: 0;
+}
+
+.carousel-pic {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.card-pic-container {
+    width: 100%;
+    height: 100%;
+}
+
+.card-pic {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+} */
